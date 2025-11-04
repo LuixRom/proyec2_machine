@@ -1,0 +1,13 @@
+# Archivos de dependencias
+node_modules/
+venv/
+__pycache__/
+.venv/
+# Archivos de entorno
+.env
+*.npz
+*.csv
+*.json
+*.pkl
+*.parquet
+SampleMoviePosters/

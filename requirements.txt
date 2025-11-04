@@ -1,0 +1,18 @@
+streamlit
+pandas
+scikit-learn
+numpy
+Pillow
+seaborn
+matplotlib
+umap-learn
+matplotlib
+requests
+plotly
+tqdm
+opencv-python
+# Additional libraries
+wordcloud
+polars
+kagglehub
+imagehash
